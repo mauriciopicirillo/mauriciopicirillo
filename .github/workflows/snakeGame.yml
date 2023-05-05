@@ -5,7 +5,7 @@ name: Snake Game
 on:
   schedule:
       # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+    - cron: "0 */12 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+     
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
