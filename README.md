@@ -1,5 +1,5 @@
-# <h1 align="center">👋 Olá Devs! Bem vindo ao meu profile do Github.</h1>
-## Meu nome é Mauricio!
+ <h1 align="center">👋 Olá Devs! Bem vindo ao meu perfil do Github.</h1>
+ <h2 align="center"> Meu nome é Mauricio! </h2>
 Sou formado em Superior em Tecnologia em Sistemas para Internet pela Cruzeiro do Sul.
 Estou em busca de conhecimento e da minha primeira oportunidade na área de Desenvolvimento.
 
@@ -8,13 +8,11 @@ Estou em busca de conhecimento e da minha primeira oportunidade na área de Dese
   Angular <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
   Mas ja tenho um pouco de conhecimento nas linguagens: 
-  .Net C# <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  Python <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">        
-  JavaScript <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  .Net C#, Python, JavaScript 
           
   Tenho um pouco de conhecimento sobre: 
-  HTML <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
-  CSS <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  HTML, CSS 
+
   
 <div align="center">
 <a href="https://github.com/mauriciopicirillo">
@@ -23,10 +21,8 @@ Estou em busca de conhecimento e da minha primeira oportunidade na área de Dese
 </div>
 
 
-
-  
-  - 📫 Como entrar em contato comigo: ...
-  <div> 
+- 📫 Como entrar em contato comigo: ...
+  <div>
       <a href = "mailto:mauriciopicirillo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
       <a href="https://www.linkedin.com/in/mauriciopicirillo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
