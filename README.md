@@ -17,8 +17,8 @@ Estou em busca de conhecimento e da minha primeira oportunidade na área de Dese
   
   <div>
 <a href="https://github.com/mauriciopicirillo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopicirillo-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciopicirillo-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopicirillo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciopicirillo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   - 📫 Como entrar em contato comigo: ...
