@@ -34,7 +34,7 @@ Estou em busca de conhecimento e da minha primeira oportunidade na área de Dese
   Jogos Online - RPG "Diablo", CardGames "Hearthstone", Tiro "Overwatch".
   Adoro aprender coisas novas e estou sempre a procura de melhorar meu conhecimento.
   
-  ![Snake animation](https://github.com/mauriciopicirillo/mauriciopicirillo/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/mauriciopicirillo/mauriciopicirillo/blob/output/github-contribution-grid-snake.svg)
 
   
 
