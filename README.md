@@ -16,7 +16,7 @@ Estou em busca de conhecimento e da minha primeira oportunidade na área de Dese
   HTML <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
   CSS <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
-  <div>
+<div text-align:"center">
 <a href="https://github.com/mauriciopicirillo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopicirillo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciopicirillo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
