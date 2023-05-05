@@ -1,16 +1,41 @@
-### Hi there 👋
+# 👋 Olá Devs! Bem vindo ao meu profile do Github.
+## Meu nome é Mauricio!
+Estou em busca de conhecimento e da minha primeira oportunidade na área de Desenvolvimento.
 
-<!--
-**mauriciopicirillo/mauriciopicirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo ... 
+  Java <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  Angular <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  Mas ja tenho um pouco de conhecimento nas linguagens: 
+  .Net C# <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  Python <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">        
+  JavaScript <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  Tenho um pouco de conhecimento sobre: 
+  HTML <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
+  CSS <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
+  <div>
+<a href="https://github.com/mauriciopicirillo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopicirillo-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciopicirillo-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  - 📫 Como entrar em contato comigo: ...
+  <div> 
+      <a href = "mailto:mauriciopicirillo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+      <a href="https://www.linkedin.com/in/mauriciopicirillo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
+ 
+ 
 
-Here are some ideas to get you started:
+⚡ Curiosidade: ...
+  Adoro assistir Animes - Acompanho One Piece desde 2001.  
+  Jogos Online - RPG "Diablo", CardGames "Hearthstone", Tiro "Overwatch".
+  Adoro aprender coisas novas e estou sempre a procura de melhorar meu conhecimento.
+  
+  ![Snake animation](https://github.com/mauriciopicirillo/mauriciopicirillo/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+
