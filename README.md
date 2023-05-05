@@ -35,7 +35,7 @@ Estou em busca de conhecimento e da minha primeira oportunidade na área de Dese
   Adoro aprender coisas novas e estou sempre a procura de melhorar meu conhecimento.
   
   
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/mauriciopicirillo/mauriciopicirillo/blob/output/github-contribution-grid-snake.svg)
 
   
 
