@@ -1,4 +1,4 @@
-# 👋 Olá Devs! Bem vindo ao meu profile do Github.
+# <h1 align="center">👋 Olá Devs! Bem vindo ao meu profile do Github.</h1>
 ## Meu nome é Mauricio!
 Sou formado em Superior em Tecnologia em Sistemas para Internet pela Cruzeiro do Sul.
 Estou em busca de conhecimento e da minha primeira oportunidade na área de Desenvolvimento.
